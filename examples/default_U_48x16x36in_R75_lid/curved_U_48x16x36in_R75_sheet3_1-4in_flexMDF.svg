@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2438.40mm" height="1279.20mm" viewBox="0 -1279.1999999999998 2438.3999999999996 1279.1999999999998">
+<!-- Units: 1 user unit = 1 mm. Y is flipped so the drawing matches the DXF. -->
+<g transform="scale(1,-1)">
+<g id="SHEET_48x96_NOCUT" fill="none" stroke="#999" stroke-width="1">
+<path d="M0.000 0.000 L2438.400 0.000 L2438.400 1219.200 L0.000 1219.200 L0.000 0.000 Z"/>
+</g>
+<g id="LABELS_NOCUT" fill="none" stroke="#444" stroke-width="1">
+<text transform="translate(10.00 1234.20) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">SHEET 3 - 1/4&quot; FLEXIBLE MDF - CURVED SKIN (FRONT-LEFT), CURVED SKIN (FRONT-RIGHT)</text>
+<text transform="translate(452.17 31.88) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="16.12" fill="#444" stroke="none">SKIN FL</text>
+<text transform="translate(477.96 28.82) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="16.12" fill="#444" stroke="none">4 7/16&quot; x 36&quot;</text>
+<text transform="translate(503.75 28.82) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="16.12" fill="#444" stroke="none">BENDS ACROSS THIS WIDTH</text>
+<text transform="translate(1379.27 31.88) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="16.12" fill="#444" stroke="none">SKIN FR</text>
+<text transform="translate(1405.06 28.82) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="16.12" fill="#444" stroke="none">4 7/16&quot; x 36&quot;</text>
+<text transform="translate(1430.85 28.82) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="16.12" fill="#444" stroke="none">BENDS ACROSS THIS WIDTH</text>
+</g>
+<g id="PROFILE_THROUGH_CUT" fill="none" stroke="#d00" stroke-width="1">
+<path d="M927.100 12.700 L927.100 125.522 L12.700 125.522 L12.700 12.700 L927.100 12.700 Z"/>
+<path d="M1854.200 12.700 L1854.200 125.522 L939.800 125.522 L939.800 12.700 L1854.200 12.700 Z"/>
+</g>
+</g>
+</svg>

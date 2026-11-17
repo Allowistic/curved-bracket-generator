@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2438.40mm" height="1279.20mm" viewBox="0 -1279.1999999999998 2438.3999999999996 1279.1999999999998">
+<!-- Units: 1 user unit = 1 mm. Y is flipped so the drawing matches the DXF. -->
+<g transform="scale(1,-1)">
+<g id="SHEET_48x96_NOCUT" fill="none" stroke="#999" stroke-width="1">
+<path d="M0.000 0.000 L2438.400 0.000 L2438.400 1219.200 L0.000 1219.200 L0.000 0.000 Z"/>
+</g>
+<g id="LABELS_NOCUT" fill="none" stroke="#444" stroke-width="1">
+<text transform="translate(10.00 1234.20) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">SHEET 2 - 3/4&quot; MDF - FRONT PANEL</text>
+<text transform="translate(456.55 497.40) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">FRONT PANEL</text>
+<text transform="translate(440.05 457.40) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">42 1/8&quot; x 36&quot;</text>
+<text transform="translate(431.80 417.40) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">INSIDE FACE UP</text>
+<text transform="translate(481.30 882.10) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">TOP EDGE</text>
+<text transform="translate(32.70 32.70) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="20.00" fill="#444" stroke="none">CORNER END</text>
+<text transform="translate(896.90 32.70) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="20.00" fill="#444" stroke="none">CORNER END</text>
+</g>
+<g id="PROFILE_THROUGH_CUT" fill="none" stroke="#d00" stroke-width="1">
+<path d="M12.700 12.700 L1081.900 12.700 L1081.900 927.100 L12.700 927.100 L12.700 12.700 Z"/>
+</g>
+<g id="DRILL_PILOT_0p098IN_DIA_0p394IN_DEEP" fill="none" stroke="#090" stroke-width="1">
+<circle cx="26.700" cy="53.700" r="1.250"/>
+<circle cx="42.700" cy="53.700" r="1.250"/>
+<circle cx="1067.900" cy="53.700" r="1.250"/>
+<circle cx="1051.900" cy="53.700" r="1.250"/>
+<circle cx="26.700" cy="338.967" r="1.250"/>
+<circle cx="42.700" cy="338.967" r="1.250"/>
+<circle cx="1067.900" cy="338.967" r="1.250"/>
+<circle cx="1051.900" cy="338.967" r="1.250"/>
+<circle cx="26.700" cy="624.233" r="1.250"/>
+<circle cx="42.700" cy="624.233" r="1.250"/>
+<circle cx="1067.900" cy="624.233" r="1.250"/>
+<circle cx="1051.900" cy="624.233" r="1.250"/>
+<circle cx="26.700" cy="909.500" r="1.250"/>
+<circle cx="42.700" cy="909.500" r="1.250"/>
+<circle cx="1067.900" cy="909.500" r="1.250"/>
+<circle cx="1051.900" cy="909.500" r="1.250"/>
+</g>
+</g>
+</svg>

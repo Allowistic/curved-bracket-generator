@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2438.40mm" height="1279.20mm" viewBox="0 -1279.1999999999998 2438.3999999999996 1279.1999999999998">
+<!-- Units: 1 user unit = 1 mm. Y is flipped so the drawing matches the DXF. -->
+<g transform="scale(1,-1)">
+<g id="SHEET_48x96_NOCUT" fill="none" stroke="#999" stroke-width="1">
+<path d="M0.000 0.000 L2438.400 0.000 L2438.400 1219.200 L0.000 1219.200 L0.000 0.000 Z"/>
+</g>
+<g id="LABELS_NOCUT" fill="none" stroke="#444" stroke-width="1">
+<text transform="translate(10.00 1234.20) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">SHEET 1 - 3/4&quot; MDF - LID, LEFT SIDE PANEL, RIGHT SIDE PANEL</text>
+<text transform="translate(597.55 263.40) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">LID</text>
+<text transform="translate(548.05 223.40) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">48&quot; x 16&quot;</text>
+<text transform="translate(407.80 183.40) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">RABBET FACE UP = UNDERSIDE</text>
+<text transform="translate(399.55 143.40) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">FLIP SIDE TO SIDE AFTER CUT</text>
+<text transform="translate(539.80 32.70) rotate(0) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">FRONT EDGE</text>
+<text transform="translate(1674.30 54.65) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">LEFT SIDE PANEL</text>
+<text transform="translate(1714.30 62.90) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">13 1/16&quot; x 36&quot;</text>
+<text transform="translate(1754.30 62.90) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">INSIDE FACE UP</text>
+<text transform="translate(1289.60 112.40) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">TOP EDGE</text>
+<text transform="translate(2139.00 32.70) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="20.00" fill="#444" stroke="none">CORNER END</text>
+<text transform="translate(442.40 465.50) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">RIGHT SIDE PANEL</text>
+<text transform="translate(482.40 482.00) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">13 1/16&quot; x 36&quot;</text>
+<text transform="translate(522.40 482.00) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">INSIDE FACE UP</text>
+<text transform="translate(57.70 531.50) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="25.00" fill="#444" stroke="none">TOP EDGE</text>
+<text transform="translate(907.10 451.80) rotate(-90) scale(1,-1)" font-family="Arial, sans-serif" font-size="20.00" fill="#444" stroke="none">CORNER END</text>
+</g>
+<g id="PROFILE_THROUGH_CUT" fill="none" stroke="#d00" stroke-width="1">
+<path d="M87.700 12.700 L1156.900 12.700 A75.000 75.000 0 0 1 1231.900 87.700 L1231.900 419.100 L12.700 419.100 L12.700 87.700 A75.000 75.000 0 0 1 87.700 12.700 Z"/>
+<path d="M2159.000 12.700 L2159.000 344.100 L1244.600 344.100 L1244.600 12.700 L2159.000 12.700 Z"/>
+<path d="M927.100 431.800 L927.100 763.200 L12.700 763.200 L12.700 431.800 L927.100 431.800 Z"/>
+</g>
+<g id="POCKET_LID_RABBET_0p236IN_DEEP" fill="none" stroke="#06c" stroke-width="1">
+<path d="M1159.517 12.746 L1162.132 12.883 L1164.740 13.111 L1167.338 13.430 L1169.924 13.839 L1172.493 14.339 L1175.044 14.928 L1177.573 15.605 L1180.076 16.371 L1182.552 17.223 L1184.995 18.161 L1187.405 19.184 L1189.778 20.290 L1192.110 21.479 L1194.400 22.748 L1196.644 24.096 L1198.839 25.522 L1200.984 27.024 L1203.075 28.599 L1205.109 30.247 L1207.085 31.964 L1208.999 33.750 L1210.850 35.601 L1212.636 37.515 L1214.353 39.491 L1216.001 41.525 L1217.576 43.616 L1219.078 45.761 L1220.504 47.956 L1221.852 50.200 L1223.121 52.490 L1224.310 54.822 L1225.416 57.195 L1226.439 59.605 L1227.377 62.048 L1228.229 64.524 L1228.995 67.027 L1229.672 69.556 L1230.261 72.107 L1230.761 74.676 L1231.170 77.262 L1231.489 79.860 L1231.717 82.468 L1231.854 85.083 L1231.900 87.700 L1231.900 419.100 L1211.850 419.100 L1211.850 87.700 L1211.817 85.782 L1211.716 83.867 L1211.549 81.956 L1211.315 80.052 L1211.015 78.158 L1210.649 76.275 L1210.218 74.406 L1209.721 72.554 L1209.161 70.720 L1208.536 68.906 L1207.849 67.115 L1207.099 65.350 L1206.289 63.612 L1205.418 61.903 L1204.488 60.225 L1203.500 58.581 L1202.456 56.972 L1201.355 55.401 L1200.201 53.869 L1198.994 52.379 L1197.736 50.931 L1196.428 49.529 L1195.071 48.172 L1193.669 46.864 L1192.221 45.606 L1190.731 44.399 L1189.199 43.245 L1187.628 42.144 L1186.019 41.100 L1184.375 40.112 L1182.697 39.182 L1180.988 38.311 L1179.250 37.501 L1177.485 36.751 L1175.694 36.064 L1173.880 35.439 L1172.046 34.879 L1170.194 34.382 L1168.325 33.951 L1166.442 33.585 L1164.548 33.285 L1162.644 33.051 L1160.733 32.884 L1158.818 32.783 L1156.900 32.750 L87.700 32.750 L85.782 32.783 L83.867 32.884 L81.956 33.051 L80.052 33.285 L78.158 33.585 L76.275 33.951 L74.406 34.382 L72.554 34.879 L70.720 35.439 L68.906 36.064 L67.115 36.751 L65.350 37.501 L63.612 38.311 L61.903 39.182 L60.225 40.112 L58.581 41.100 L56.972 42.144 L55.401 43.245 L53.869 44.399 L52.379 45.606 L50.931 46.864 L49.529 48.172 L48.172 49.529 L46.864 50.931 L45.606 52.379 L44.399 53.869 L43.245 55.401 L42.144 56.972 L41.100 58.581 L40.112 60.225 L39.182 61.903 L38.311 63.612 L37.501 65.350 L36.751 67.115 L36.064 68.906 L35.439 70.720 L34.879 72.554 L34.382 74.406 L33.951 76.275 L33.585 78.158 L33.285 80.052 L33.051 81.956 L32.884 83.867 L32.783 85.782 L32.750 87.700 L32.750 419.100 L12.700 419.100 L12.700 87.700 L12.746 85.083 L12.883 82.468 L13.111 79.860 L13.430 77.262 L13.839 74.676 L14.339 72.107 L14.928 69.556 L15.605 67.027 L16.371 64.524 L17.223 62.048 L18.161 59.605 L19.184 57.195 L20.290 54.822 L21.479 52.490 L22.748 50.200 L24.096 47.956 L25.522 45.761 L27.024 43.616 L28.599 41.525 L30.247 39.491 L31.964 37.515 L33.750 35.601 L35.601 33.750 L37.515 31.964 L39.491 30.247 L41.525 28.599 L43.616 27.024 L45.761 25.522 L47.956 24.096 L50.200 22.748 L52.490 21.479 L54.822 20.290 L57.195 19.184 L59.605 18.161 L62.048 17.223 L64.524 16.371 L67.027 15.605 L69.556 14.928 L72.107 14.339 L74.676 13.839 L77.262 13.430 L79.860 13.111 L82.468 12.883 L85.083 12.746 L87.700 12.700 L1156.900 12.700 L1159.517 12.746 Z"/>
+</g>
+<g id="DRILL_PILOT_0p098IN_DIA_0p394IN_DEEP" fill="none" stroke="#090" stroke-width="1">
+<circle cx="2118.000" cy="26.700" r="1.250"/>
+<circle cx="2118.000" cy="42.700" r="1.250"/>
+<circle cx="1832.733" cy="26.700" r="1.250"/>
+<circle cx="1832.733" cy="42.700" r="1.250"/>
+<circle cx="1547.467" cy="26.700" r="1.250"/>
+<circle cx="1547.467" cy="42.700" r="1.250"/>
+<circle cx="1262.200" cy="26.700" r="1.250"/>
+<circle cx="1262.200" cy="42.700" r="1.250"/>
+<circle cx="886.100" cy="445.800" r="1.250"/>
+<circle cx="886.100" cy="461.800" r="1.250"/>
+<circle cx="600.833" cy="445.800" r="1.250"/>
+<circle cx="600.833" cy="461.800" r="1.250"/>
+<circle cx="315.567" cy="445.800" r="1.250"/>
+<circle cx="315.567" cy="461.800" r="1.250"/>
+<circle cx="30.300" cy="445.800" r="1.250"/>
+<circle cx="30.300" cy="461.800" r="1.250"/>
+</g>
+</g>
+</svg>
