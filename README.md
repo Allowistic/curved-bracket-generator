@@ -12,7 +12,7 @@ The design follows a Perth Fireplaces reel (@perthfireplaces): a quarter-ring br
 
 ## Using the sliders
 
-Every setting is a slider, and the 3D view updates while you drag.
+Every setting is a slider, and the 3D view updates while you drag. Each size also has a box you can type an exact value into: `36`, `36.5`, `36 1/2`, `36-1/2`, or a unit on the end (`914mm`, `91.4cm`, `36"`). A value outside a slider's range is set to the nearest end, and the app says so.
 
 - **Layout (buttons):** `L` is one corner, `U` is two front corners with an open back, and `box` is four corners.
 - **Size:** length, depth and height of the outside of the box. Switch between inches and mm at the top.
@@ -24,6 +24,16 @@ Every setting is a slider, and the 3D view updates while you drag.
 - **Bracket shape settings:** band width, bracket width, flange length and thickness, and the slot between the three ribs (0 = solid), for fine-tuning the printed part.
 
 In the 3D view, **See-through** shows the brackets inside the panels, **Lift lid** raises the lid so you can see the plug, and **Reset view** frames the model again.
+
+## On a phone
+
+The same link works on phones. Nothing is left out.
+
+- **Portrait:** the 3D view sits on top and the settings are in a sheet along the bottom. Drag the handle (or tap it) to move the sheet between three heights: pulled down for a nearly full-screen 3D view, halfway, or pulled up to see all the settings. The view buttons sit along the bottom of the 3D view.
+- **Landscape:** the settings are in a narrow drawer on the left. **Sliders** folds it away for a full-width view.
+- **3D view:** one finger turns it, pinch to zoom, two fingers to move it.
+- **Typing a size:** tap the value next to a slider. The number keyboard comes up.
+- **Files:** each download saves to Files (iPhone) or Downloads (Android). On phones that can share files there's also **Share everything (zip)**, to send the zip to Drive, AirDrop or the shop computer.
 
 ## Downloads
 
@@ -48,7 +58,7 @@ The file units are set in each DXF header (`$INSUNITS`).
 **View in my room** puts the box, full size, on your floor.
 
 - **Quest 3 and Android (Chrome):** WebXR room view. It only starts from the https link above, not from a downloaded file.
-- **iPhone and iPad:** Safari has no WebXR, so use **Open in AR Quick Look** or **Download USDZ**. These work from a downloaded file too.
+- **iPhone and iPad:** Safari has no WebXR, so the room view opens in Apple's AR Quick Look, at real size (the model is made when the dialog opens, so the button opens it straight away). **Download USDZ** saves the same model. Both work from a downloaded file too.
 
 ## The lid
 
